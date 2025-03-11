@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/api';
+const API_URL = 'https://ide-run.goorm.io/workspace/dNoMDu38UAlskagV5De';
 
 // Fetch and display content
 async function fetchContent() {
